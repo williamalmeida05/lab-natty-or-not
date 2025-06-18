@@ -1,20 +1,21 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Projeto Atendimento Humano 🎧
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este projeto é um podcast de 2 minutos que apresenta, de forma objetiva e acessível, a importância da Comunicação Não Violenta (CNV) no atendimento ao cliente. A proposta é mostrar como a empatia pode transformar relações e gerar melhores resultados.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+Partimos da ideia de abordar boas práticas no atendimento. Com o auxílio da IA ChatGPT, criamos e refinamos um roteiro baseado nos princípios da CNV de Marshall Rosenberg. A voz foi sintetizada com realismo usando a ElevenLabs.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+- Episódio de 2 minutos publicado em formato podcast
+- Linguagem acessível e aplicável ao dia a dia profissional
+- Conteúdo compartilhável para treinamentos e equipes de atendimento
 
-[LINK PARA O PODCAST AQUI]()
+**[Clique aqui para acessar o vídeo no Google Drive](https://drive.google.com/drive/folders/1d4hwMSYktq2400fTUpjo2VQLpRFByjwh?usp=sharing)**
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+Falar sobre empatia em apenas 2 minutos parece pouco, mas é exatamente o tempo que pode evitar um conflito, melhorar uma experiência e fidelizar um cliente. A Comunicação Não Violenta não é um discurso bonito — é uma prática essencial para quem lida com pessoas todos os dias.
