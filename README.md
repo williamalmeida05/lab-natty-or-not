@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# rojeto Atendimento Humano 🎧
+# Projeto Atendimento Humano 🎧
 
 ## 📒 Descrição
 Este projeto é um podcast de 2 minutos que apresenta, de forma objetiva e acessível, a importância da Comunicação Não Violenta (CNV) no atendimento ao cliente. A proposta é mostrar como a empatia pode transformar relações e gerar melhores resultados.
